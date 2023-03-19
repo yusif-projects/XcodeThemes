@@ -1,3 +1,7 @@
+[![Follow](https://img.shields.io/github/followers/yusif-projects?style=social)](https://github.com/yusif-projects)
+![Star](https://img.shields.io/github/stars/yusif-projects/XcodeThemes?style=social)
+[![License](https://img.shields.io/github/license/yusif-projects/XcodeThemes)](https://github.com/yusif-projects/NostalgicMusicPlayer/blob/main/LICENSE)
+
 # Xcode Themes
 Some color themes for Xcode I have collected.
 
